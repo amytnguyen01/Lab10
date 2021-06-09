@@ -2,4 +2,8 @@
 
 Name: Amy Nguyen
 
-Website: https://cse110-lab10-amytnguyen01.canny.io
+Websites: 
+
+https://cse110-lab10-amytnguyen01.canny.io
+
+https://amytnguyen01.github.io/Lab10/
